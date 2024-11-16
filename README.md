@@ -87,7 +87,7 @@ Protected routes include actions like adding, updating, or deleting authors and 
 ```bash
 {
   "status": "success",
-  "token": "your_newtoken"
+  "token": "new_token"
 }
 ```
 #### Get Authors
@@ -109,7 +109,7 @@ Protected routes include actions like adding, updating, or deleting authors and 
     {
       "authorid": "1",
       "name": "Chrystal"
-      "token": "your_newtoken"
+      "token": "new_token"
     }
   ]
 }
@@ -130,7 +130,7 @@ Protected routes include actions like adding, updating, or deleting authors and 
 ```bash
 {
   "status": "success"
-  "token": "your_newtoken"
+  "token": "new_token"
 }
 ```
 #### Delete Author
@@ -149,7 +149,7 @@ Protected routes include actions like adding, updating, or deleting authors and 
 ```bash
 {
   "status": "success"
-  "token": "your_newtoken"
+  "token": "new_token"
 }
 ```
 ## BOOK MANAGEMENT
@@ -171,7 +171,7 @@ Protected routes include actions like adding, updating, or deleting authors and 
 ```bash
 {
   "status": "success"
-  "token": "your_newtoken"
+  "token": "new_token"
 }
 ```
 #### Get Books
@@ -190,7 +190,7 @@ Protected routes include actions like adding, updating, or deleting authors and 
 ```bash
 {
   "status": "success"
-  "token": "your_newtoken"
+  "token": "new_token"
 }
 ```
 #### Update Book
@@ -211,7 +211,7 @@ Protected routes include actions like adding, updating, or deleting authors and 
 ```bash
 {
   "status": "success"
-  "token": "your_newtoken"
+  "token": "new_token"
 }
 ```
 #### Delete Book
@@ -228,7 +228,7 @@ Protected routes include actions like adding, updating, or deleting authors and 
 ```bash
 {
   "status": "success"
-  "token": "your_newtoken"
+  "token": "new_token"
 }
 ```
 
@@ -251,7 +251,7 @@ Protected routes include actions like adding, updating, or deleting authors and 
 ```bash
 {
   "status": "success"
-  "token": "your_newtoken"
+  "token": "new_token"
 }
 ```
 #### Get All Book-Author Relations
@@ -268,7 +268,7 @@ Protected routes include actions like adding, updating, or deleting authors and 
 ```bash
 {
   "status": "success",
-  "token": "your_newtoken",
+  "token": "new_token",
   "data": [
     {
       "id": "1",
@@ -292,7 +292,7 @@ Protected routes include actions like adding, updating, or deleting authors and 
 ```bash
 {
   "status": "success",
-  "token": "your_newtoken",
+  "token": "new_token",
 }
 ```
 
